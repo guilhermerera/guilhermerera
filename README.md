@@ -1,5 +1,7 @@
 # Hey there! My name is Guilherme Ferreira.
 
+<br>
+
 ### Based in São Paulo, Brazil.
 ### Graduated in Advertising, with 10+ years of experience in digital marketing.
 ### I'm into games, tech, design, digital art, jiu jitsu and more...
