@@ -37,4 +37,4 @@
 <br>
 
 # ✉️ Message Me
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/guilherme-ferreira-6841b023/) [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:guilhermerera@gmail.com) [![GitHub](https://img.shields.io/github/followers/guilhermerera.svg?style=social&label=Follow&maxAge=2592000)](https://github.com/guilhermerera)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/guilhermerera) [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:guilhermerera@gmail.com) [![GitHub](https://img.shields.io/github/followers/guilhermerera.svg?style=social&label=Follow&maxAge=2592000)](https://github.com/guilhermerera)
