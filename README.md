@@ -4,7 +4,7 @@
 ### Front-End Developer, studying to be a FullStack.
 ### Graduated in Advertising, with 10+ years of experience in digital marketing.
 ### I'm into games, tech, design, digital art, jiu jitsu and more...
-### I'm open to freelance jobs!
+### I'm avaiable to freelance!
 
 <br>
 
