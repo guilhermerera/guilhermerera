@@ -1,4 +1,4 @@
-# 👋 Hey there! My name is Guilherme Ferreira.
+# 👋 Hey there! My name is Guilherme Rera.
 ### But you can call me Rera.
 ### Based in São Paulo, Brazil.
 ### Front-End Developer, studying to be a FullStack.
@@ -38,4 +38,4 @@
 <br>
 
 # ✉️ Message Me
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/guilhermerera) [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:guilhermerera@gmail.com) [![GitHub](https://img.shields.io/github/followers/guilhermerera.svg?style=social&label=Follow&maxAge=2592000)](https://github.com/guilhermerera)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/guilhermerera) [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:hello@rera.dev) [![GitHub](https://img.shields.io/github/followers/guilhermerera.svg?style=social&label=Follow&maxAge=2592000)](https://github.com/guilhermerera)
