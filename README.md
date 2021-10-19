@@ -1,9 +1,10 @@
 # 👋 Hey there! My name is Guilherme Ferreira.
 ### But you can call me Rera.
 ### Based in São Paulo, Brazil.
-### Entry-level Front-End Developer, studying to be a FullStack.
+### Front-End Developer, studying to be a FullStack.
 ### Graduated in Advertising, with 10+ years of experience in digital marketing.
 ### I'm into games, tech, design, digital art, jiu jitsu and more...
+### I'm open to freelance jobs!
 
 <br>
 
