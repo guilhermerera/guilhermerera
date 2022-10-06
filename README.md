@@ -1,5 +1,5 @@
 [![Linkedin Badge](https://img.shields.io/badge/-guilhermerera-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/guilhermerera/)](https://www.linkedin.com/in/guilhermerera/) 
-[![Gmail Badge](https://img.shields.io/badge/-guilhermerera@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:guilhermerera@gmail.com)](mailto:guilhermerera@gmail.com)
+[![Gmail Badge](https://img.shields.io/badge/-hello@rera.dev-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:hello@rera.dev)](mailto:hello@rera.dev)
 ### 👋 Hey there! My name is Guilherme!
 ##### But you can call me Rera.
 Based in São Paulo, Brazil but open to relocate anywhere.
