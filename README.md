@@ -6,10 +6,11 @@ Based in São Paulo, Brazil but open to relocate anywhere.
 <br>
 I'm a Full Stack Web developer working as a front-end @Fetchly Labs.
 <br>
- I'm into games, tech, design, digital art, jiu jitsu and more...
+I'm into games, tech, bikes, design, digital art, jiu jitsu and more...
+<br>
 I have nearly 2 years of experience as a developer and over 8 years as digital marketing analyst.
 
-<br>
+
 
 ### 🔧 Skills and Tools
  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5"> <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" ALT="CSS3"> <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript"> 
