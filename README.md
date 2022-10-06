@@ -1,14 +1,17 @@
-# 👋 Hey there! My name is Guilherme Rera.
-### But you can call me Rera.
+[![Linkedin Badge](https://img.shields.io/badge/-guilhermerera-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/guilhermerera/)](https://www.linkedin.com/in/guilhermerera/) 
+[![Gmail Badge](https://img.shields.io/badge/-guilhermerera@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:guilhermerera@gmail.com)](mailto:guilhermerera@gmail.com)
+### 👋 Hey there! My name is Guilherme!
+##### But you can call me Rera.
 Based in São Paulo, Brazil but open to relocate anywhere.
 <br>
-I'm a Full Stack Web developer, into games, tech, design, digital art, jiu jitsu and more...
+I'm a Full Stack Web developer working as a front-end @Fetchly Labs.
 <br>
+ I'm into games, tech, design, digital art, jiu jitsu and more...
 I have nearly 2 years of experience as a developer and over 8 years as digital marketing analyst.
 
 <br>
 
-# 🔧 Skills and Tools
+### 🔧 Skills and Tools
  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5"> <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" ALT="CSS3"> <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript"> 
  <br>
  ![SASS](https://img.shields.io/badge/SASS-hotpink.svg?style=for-the-badge&logo=SASS&logoColor=white)
@@ -22,10 +25,5 @@ I have nearly 2 years of experience as a developer and over 8 years as digital m
 
 <br>
 
-# 💡 Currently Learning
-![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
-
-<br>
-
-# ✉️ Message Me
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/guilhermerera) [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:hello@rera.dev) [![GitHub](https://img.shields.io/github/followers/guilhermerera.svg?style=social&label=Follow&maxAge=2592000)](https://github.com/guilhermerera)
+### 💡 Currently Learning
+![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white) ![React Native](https://img.shields.io/badge/react_native-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
