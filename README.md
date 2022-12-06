@@ -26,6 +26,6 @@ I have nearly 2 years of experience as a developer and over 8 years as digital m
 ##### Other: Sequelize, Mongoose, SASS, jQuery, Bootstrap...
 
 
-### 💡 Currently Learning
+### 💡 Currently Learning in Depth
 
-![Rails](https://img.shields.io/badge/rails-%23CC0000.svg?style=flat&logo=ruby-on-rails&logoColor=white)
+<img src="https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB" alt="React"> ![React Native](https://img.shields.io/badge/react_native-%2320232a.svg?style=flat&logo=react&logoColor=%2361DAFB)
