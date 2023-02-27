@@ -5,9 +5,9 @@
 
 ##### But you can call me Rera.
 
-Based in São Paulo, Brazil but open to relocate anywhere.
+Based in São Paulo, Brazil.
 <br>
-I'm a Full Stack Web developer working as a front-end @Fetchly Labs.
+I'm a Software Developer @Fetchly Labs.
 <br>
 I'm into games, tech, bikes, design, digital art, jiu jitsu and more...
 <br>
@@ -22,10 +22,4 @@ I have nearly 2 years of experience as a developer and over 8 years as digital m
 <br>
 ![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=flat&logo=firebase)
 <img src="https://img.shields.io/badge/Adobe%20Photoshop-31A8FF?style=flat&logo=Adobe%20Photoshop&logoColor=black" alt="PhotoShop"> ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=flat&logo=figma&logoColor=white)
-<br>
-##### Other: Sequelize, Mongoose, SASS, jQuery, Bootstrap...
-
-
-### 💡 Currently Learning in Depth
-
-<img src="https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB" alt="React"> ![React Native](https://img.shields.io/badge/react_native-%2320232a.svg?style=flat&logo=react&logoColor=%2361DAFB)
+##### Other: Sequelize, Mongoose, SASS, jQuery...
