@@ -11,7 +11,7 @@ I'm a Software Developer @Fetchly Labs.
 <br>
 I'm into games, tech, bikes, design, digital art, jiu jitsu and more...
 <br>
-I have nearly 2 years of experience as a developer and over 8 years as digital marketing analyst.
+I have about 2 years of experience as a software developer and over 8 years in digital marketing.
 
 ### 🔧 Skills and Tools
 
