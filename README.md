@@ -5,21 +5,13 @@
 
 ##### But you can call me Rera.
 
-Based in São Paulo, Brazil.
-<br>
-I'm a Software Developer @Fetchly Labs.
-<br>
-I'm into games, tech, bikes, design, digital art, jiu jitsu and more...
-<br>
-I have about 2 years of experience as a software developer and over 8 years in digital marketing.
+#### Based in São Paulo, Brazil. <br> I'm a Software Developer @Fetchly Labs. <br> I'm into games, tech, bikes, design, digital art, jiu jitsu and more... <br> I have about 2 years of experience as a software developer and over 8 years in digital marketing.
 
 ### ⚒️ Skills and Tools
 
 <img src="https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB" alt="React"> ![React Native](https://img.shields.io/badge/react_native-%2320232a.svg?style=flat&logo=react&logoColor=%2361DAFB) <img src="https://img.shields.io/badge/Node.js-43853D?style=flat&logo=node.js&logoColor=white" alt="NodeJS"> ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=flat&logo=typescript&logoColor=white)
-<br>
-![Next JS](https://img.shields.io/badge/Next-black?style=flat&logo=next.js&logoColor=white)
-![Styled Components](https://img.shields.io/badge/styled--components-DB7093?style=flat&logo=styled-components&logoColor=white) ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=flat&logo=express&logoColor=%2361DAFB)
-<br>
-![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=flat&logo=firebase)
+##### I also have knowledge/experience with other libs and frameworks such as VueJs, Redux, NextJs, <br>Styled Components, Expo, ExpressJS, Fastify, etc...
+
+### 🖍️ Other Tools
+
 <img src="https://img.shields.io/badge/Adobe%20Photoshop-31A8FF?style=flat&logo=Adobe%20Photoshop&logoColor=black" alt="PhotoShop"> ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=flat&logo=figma&logoColor=white)
-##### Other: Sequelize, Mongoose, SASS, jQuery...
