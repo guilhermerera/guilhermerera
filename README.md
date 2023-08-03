@@ -6,7 +6,7 @@
 ##### But you can call me Rera.
 
 #### Based in São Paulo, Brazil.<br> I'm a Software Developer @Fetchly Labs. <br> I'm into games, tech, bikes, design, digital art, jiu jitsu and more...
-#### I have over 2 years of experience as a software developer and <br> had the opportunity to work with a lot of different products <br> as a front-end, back-end and mobile developer.
+#### I have 2~3 years of experience as a software developer and <br> had the opportunity to work with a lot of different products <br> as a front-end, back-end and mobile developer.
 
 ### ⚒️ Skills and Tools
 
