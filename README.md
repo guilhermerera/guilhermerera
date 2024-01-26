@@ -11,7 +11,7 @@
 ### ⚒️ Skills and Tools
 
 <img src="https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB" alt="React"> ![React Native](https://img.shields.io/badge/react_native-%2320232a.svg?style=flat&logo=react&logoColor=%2361DAFB) <img src="https://img.shields.io/badge/Node.js-43853D?style=flat&logo=node.js&logoColor=white" alt="NodeJS"> ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=flat&logo=typescript&logoColor=white)
-##### I also have knowledge/experience with libs and frameworks such as NextJs, VueJs, Redux, <br> Styled Components, Expo, ExpressJS, Fastify, etc...
+##### I also have knowledge/experience with libs and frameworks such as NextJs, VueJs, Redux, <br> Styled Components, TailwindCSS, Radix UI, Expo, ExpressJS, Fastify, etc...
 
 ### 🖍️ Other Tools
 
