@@ -3,10 +3,10 @@
 
 ### 👋 Hey there! My name is Guilherme!
 
-##### But you can call me Rera.
+##### But you can call me Rera or "G". 
 
-#### From São Paulo, Brazil.<br> I'm a Software Developer @Fetchly Labs. <br> I'm into games, tech, bikes, design, digital art, jiu jitsu and more...
-#### I have 3 years of experience as a software developer and <br> had the opportunity to work with a lot of different products <br> as a front-end, back-end and mobile developer.
+#### From São Paulo, Brazil.<br> I'm a Full Stack Developer @Agile Engine. <br> I'm into games, tech, bikes, design, digital art, jiu-jitsu, and more...
+#### I have 3 years of experience as a software developer and <br> had the opportunity to work with a wide range of products <br> as a front-end, back-end, and mobile developer.
 
 ### ⚒️ Skills and Tools
 
